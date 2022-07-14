@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to further nourish my formation with real-world scenarios.
 - 📫 How to reach me : thomasabboud0@gmail.com 
+- Portfolio:  https://settimith.netlify.app/
