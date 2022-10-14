@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thomas Abboud @setTimith.
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning TypeScript.
-- 💞️ I’m looking to further nourish my formation with real-world scenarios.
+- 👀 I’m always interested in acquiring new skills.
+- 🌱 I’m currently learning React-Native.
 - 📫 How to reach me : thomasabboud0@gmail.com 
 - 🖥️ Portfolio:  https://settimith.netlify.app/
