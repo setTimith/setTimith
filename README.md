@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Abboud @setTimith.
 - 👀 I’m always interested in acquiring new skills.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Three.js on the road to becoming a creative developer.
 - 📫 How to reach me : thomasabboud0@gmail.com 
 - 🖥️ Portfolio:  https://settimith.netlify.app/
