@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Thomas Abboud @setTimith.
 - 👀 I’m always interested in learning new skills and growing.
-- 🌱 I’m currently getting better at Next.js + Sanity.io + Three.js
+- 🌱 I’m currently getting better at Next.js + Sanity.io 
 - 📫 How to reach me : thomasabboud0@gmail.com 
 - 🖥️ Current Portfolio:  https://settimith.netlify.app/
