@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Thomas Abboud @setTimith.
 - 👀 I’m always interested in learning new skills and growing.
-- 🌱 I’m currently undergoing the IBM Full Stack JavaScript Developer Professional Certification
+- 🌱 I’m currently undergoing the IBM Full Stack JavaScript Developer Professional Certification and Learning Hydrogen
 - 📫 How to reach me : thomasabboud0@gmail.com 
 - 🖥️ Current Portfolio:  https://settimith.netlify.app/
